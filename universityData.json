@@ -6,16 +6,16 @@
         "S212": "on the second floor of the Mellor building."
     },
     "lecturers": {
-        "Introduction to UX": "John Smith",
-        "Web Development": "Ivan Kid",
-        "Clean Coding": "Adela Borchert",
-        "Data Science": "Alexa Cartwright"
+        "introduction to ux": "john smith",
+        "web development": "ivan kid",
+        "clean coding": "adela borchert",
+        "data science": "alexa cartwright"
     },
     "lecturerModules": {
-        "John Smith": "Introduction to UX",
-        "Ivan Kid": "Web Development",
-        "Adela Borchert": "Clean Coding",
-        "Alexa Cartwright": "Data Science"
+        "john smith": "introduction to ux",
+        "ivan kid": "web development",
+        "adela borchert": "clean coding",
+        "alexa cartwright": "data science"
     },
     "timetable": {
         "Monday": "Introduction to UX with John Smith from 10:00 AM to 12:00 PM in Room CA101.",
