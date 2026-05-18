@@ -1,0 +1,30 @@
+{
+    "rooms": {
+        "CA101": "on the first floor of the Catalyst building.",
+        "CA102": "on the first floor of the Catalyst building.",
+        "CA202": "on the second floor of the Catalyst building.",
+        "S212": "on the second floor of the Mellor building."
+    },
+    "lecturers": {
+        "Introduction to UX": "John Smith",
+        "Web Development": "Ivan Kid",
+        "Clean Coding": "Adela Borchert",
+        "Data Science": "Alexa Cartwright"
+    },
+    "lecturerModules": {
+        "John Smith": "Introduction to UX",
+        "Ivan Kid": "Web Development",
+        "Adela Borchert": "Clean Coding",
+        "Alexa Cartwright": "Data Science"
+    },
+    "timetable": {
+        "Monday": "Introduction to UX with John Smith from 10:00 AM to 12:00 PM in Room CA101.",
+        "Tuesday": "Web Development with Ivan Kid from 1:00 PM to 3:00 PM in Room CA102.",
+        "Wednesday": "Clean Coding with Adela Borchert from 9:00 AM to 11:00 AM in Room CA202.",
+        "Thursday": "Data Science with Alexa Cartwright from 11:00 AM to 1:00 PM in Room S212."
+    },
+    "deadlines": {
+        "1": "Introduction to UX Assignment due this Friday at 4:00 PM.",
+        "2": "Data Science Assignment due in week 8."
+    }
+};
